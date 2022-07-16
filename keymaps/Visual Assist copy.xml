@@ -1,5 +1,0 @@
-<keymap version="1" name="Visual Assist copy" parent="Visual Assist">
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-</keymap>
