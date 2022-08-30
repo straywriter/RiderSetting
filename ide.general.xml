@@ -8,6 +8,5 @@
     <entry key="ide.experimental.ui" value="true" />
     <entry key="ide.experimental.ui.navbar.scroll" value="true" />
     <entry key="ide.experimental.ui.inter.font" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
