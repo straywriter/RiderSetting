@@ -1,4 +1,8 @@
 <keymap version="1" name="MeiSetting" parent="Visual Assist">
+  <action id="ChangesView.SetDefault" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
