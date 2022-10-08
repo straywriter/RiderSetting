@@ -26,6 +26,9 @@
     <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
     <option name="INSERT_PARENTHESES_AUTOMATICALLY" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
