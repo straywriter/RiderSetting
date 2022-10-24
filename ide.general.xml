@@ -5,7 +5,9 @@
   </component>
   <component name="Registry">
     <entry key="rdclient.asyncActions" value="false" />
-    <entry key="ide.experimental.ui" value="true" />
-    <entry key="ide.experimental.ui.inter.font" value="true" />
+    <entry key="ide.experimental.ui" value="false" />
+    <entry key="debugger.new.tool.window.layout" value="false" />
+    <entry key="ide.new.project.model.index.case.sensitivity" value="false" />
+    <entry key="ide.experimental.ui.navbar.scroll" value="true" />
   </component>
 </application>
