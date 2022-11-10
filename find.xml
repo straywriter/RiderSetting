@@ -6,8 +6,8 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.cs</mask>
     <mask>*.ush</mask>
     <mask>*.ini</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
