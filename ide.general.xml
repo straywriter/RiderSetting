@@ -9,4 +9,11 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.experimental.ui.inter.font" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="IncomingChanges" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
