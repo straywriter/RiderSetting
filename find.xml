@@ -10,5 +10,6 @@
     <mask>*.cs</mask>
     <mask>*.ini</mask>
     <mask>MF*.cpp</mask>
+    <mask>*.usf</mask>
   </component>
 </application>
