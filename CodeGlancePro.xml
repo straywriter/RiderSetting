@@ -2,5 +2,6 @@
   <component name="CodeGlance Pro">
     <option name="clean" value="false" />
     <option name="consoleWidth" value="54" />
+    <option name="mainWidth" value="104" />
   </component>
 </application>
