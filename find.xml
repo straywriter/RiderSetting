@@ -12,5 +12,6 @@
     <mask>*.usf</mask>
     <mask>*.ush</mask>
     <mask>*.usf,*.ush</mask>
+    <mask>*.cpp</mask>
   </component>
 </application>
