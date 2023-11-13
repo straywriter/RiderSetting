@@ -9,9 +9,9 @@
     <mask>*.cs</mask>
     <mask>*.ini</mask>
     <mask>MF*.cpp</mask>
-    <mask>*.usf</mask>
-    <mask>*.ush</mask>
     <mask>*.usf,*.ush</mask>
     <mask>*.cpp</mask>
+    <mask>*.ush</mask>
+    <mask>*.usf</mask>
   </component>
 </application>
