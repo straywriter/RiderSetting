@@ -3,15 +3,16 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.ini" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.cs</mask>
-    <mask>*.ini</mask>
     <mask>MF*.cpp</mask>
     <mask>*.cpp</mask>
     <mask>*.ush</mask>
     <mask>*.usf</mask>
     <mask>*.usf,*.ush</mask>
+    <mask>*.ini</mask>
   </component>
 </application>
